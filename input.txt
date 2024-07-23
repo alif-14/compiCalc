@@ -1,0 +1,5 @@
+x = 12;
+new_x = x ** 2;
+y = 2 * x + new_x * sin(x);
+print(x);
+print(y);
